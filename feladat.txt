@@ -1,0 +1,27 @@
+levesek
+Hozz létre ételek néven adatbázist és importád be a "levesek.sql" script-et
+
+Készíts http://localhost/index.php?levesek végpontot a levesek adatainak a lekérdezésére.
+Készíts weblapot, amely a végpont felhasználásával kértya szerűen megjeleníti az adatokat. (Az ételekről keress képet vagy használd a "noimage.svg"-t
+Készíts konzolos alkalmazást, amely kiírja a levesek számát, a legmagasabb kalória tartalmú leves nevét 
+Készíts grafikus felületű alkalmazást új leves felvitelére
+
+
+
+
+
+
+
+
+
+
+dolgozok
+Importád be a "dolgozok.sql" script-et
+Készíts http://localhost/index.php?dolgozok végpontot a dolgozók adatainak a lekérdezésére.
+Készíts weblapot, amely a végpont felhasználásával táblázat szerűen megjeleníti az adatokat. 
+Készíts konzolos alkalmazást, amely 
+kiírja a dolgozók számát, 
+a legmagasabb keresetű dolgozó nevét 
+hányan dolgoznak az egyes részlegeken
+kilistázza az "asztalosműhely"-ben dolgozók nevét
+Készíts grafikus felületű alkalmazást új dolgozó felvitelére
